@@ -94,8 +94,8 @@ def get_possible(list, max):
     return possible
 
 
-def get_frame(tab, title, color):
-    n = len(title)
+def get_frame(tab, the_longest_str, color):
+    n = len(the_longest_str)
     k = len(tab)
 
     if color == 'red':

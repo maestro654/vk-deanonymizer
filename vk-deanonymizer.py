@@ -86,7 +86,7 @@ def main():
     title = tab + 'Report for ' + name + ' (' + link + ')'
 
     frame_color = random.choice(['red', 'green', 'yellow', 'blue', 'light_blue', 'purple'])
-    frame = lib.get_frame(tab, title, frame_color)
+    frame = lib.get_frame(tab, tab + 'You can see more public information at ' + link, frame_color)
 
     print()
     print(title)
