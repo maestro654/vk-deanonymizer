@@ -2,6 +2,8 @@
 <a href="https://python.org"><img src="https://img.shields.io/badge/python-3-green.svg" /></a>
 ## Программа, деанонимизирующая аккаунты VK
 
+<img src"https://github.com/jieggii/vk-deanonymizer/blob/master/img/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5.png"></img>
+
 # Как это работает?
 * Программа анализирует друзей цели и, основываясь на их открытой информации, определяет реальные данные цели.
 
