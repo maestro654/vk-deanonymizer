@@ -36,12 +36,15 @@ $ sudo pip3 install -r requirements.txt
 * Поместите ваш ВК access token в файл ```key.txt```
 
 ## Использование
-```vk-deanonymizer [user_id]```
-
-## Примеры
 ```
-vk-deanonymizer 123
-vk-deanonymizer 12567
+usage: vk-deanonymizer.py [-h] --user-id USER_ID
+
+optional arguments:
+  -h, --help            show this help message and exit
+
+required arguments:
+  --user-id USER_ID, -u USER_ID
+                        Target user_id
 ```
 
 # Информация
